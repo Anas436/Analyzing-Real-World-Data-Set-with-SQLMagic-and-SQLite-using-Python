@@ -1,4 +1,4 @@
-# Analyzing-Real-World-Data-Set-with-SQLMagic-and-SQLite-using-Python
+# Analyzing-Real-World-Data-Set-with-SQLMagic-and-SQLite3-using-Python
 
 
 Chicago Public Schools - Progress Report Cards (2011-2012)
